@@ -1,3 +1,3 @@
-# NextJS intro
+# React NextJS App
 
-A very basic/dummy nextJS app using routing, links, navigation.
+Full app in private repo. Deployed here >> https://react-nextjs-meetups-app.vercel.app/
